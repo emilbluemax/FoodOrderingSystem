@@ -1,7 +1,5 @@
 # FoodOrderingSystem
 
----
-
 In this project we aim to develop an **online Food ordering system**. <br><br>
 The website can be **entered as a admin/user** by providing valid
 credentials or a sign-up page for new users. <br><br>
